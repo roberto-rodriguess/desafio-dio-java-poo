@@ -1,3 +1,8 @@
+package smartphone;
+
+import funcionalidades.internetbrowser.InternetBrowser;
+import funcionalidades.musicplayer.MusicPlayer;
+import funcionalidades.telephone.Telephone;
 
 public class IPhone implements MusicPlayer, Telephone, InternetBrowser {
 
